@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4906484-9232-4649-8257-8f4d33db04a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XAJRsD7fkJ8k7JRHYd0zUPmVzX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.Integerinversion.Main" />
+      <module name="LeeCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.Integerinversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.VerifyThePalindrome.Main" />
+      <module name="LeeCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.VerifyThePalindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.RomanNumeralsToIntegers.Main" />
+      <module name="LeeCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.RomanNumeralsToIntegers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="LeeCodes" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.VerifyThePalindrome.VerifyThePalindrome2.Main" />
+      <module name="LeeCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.VerifyThePalindrome.VerifyThePalindrome2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4906484-9232-4649-8257-8f4d33db04a5" name="Default Changelist" comment="" />
+      <created>1580482960681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580482960681</updated>
+      <workItem from="1580482965442" duration="9676000" />
+      <workItem from="1580619928795" duration="356000" />
+      <workItem from="1580620598978" duration="7036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="161" key="GridCell.Tab.0.bottom" timestamp="1580635154796">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="161" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580635154796" />
+    <state width="1238" height="161" key="GridCell.Tab.0.center" timestamp="1580635154795">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="161" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1580635154795" />
+    <state width="1238" height="161" key="GridCell.Tab.0.left" timestamp="1580635154794">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="161" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1580635154794" />
+    <state width="1238" height="161" key="GridCell.Tab.0.right" timestamp="1580635154795">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="161" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1580635154795" />
+    <state width="1238" height="218" key="GridCell.Tab.1.bottom" timestamp="1580634406850">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580634406850" />
+    <state width="1238" height="218" key="GridCell.Tab.1.center" timestamp="1580634406849">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.center/0.23.1280.709@0.23.1280.709" timestamp="1580634406849" />
+    <state width="1238" height="218" key="GridCell.Tab.1.left" timestamp="1580634406849">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.left/0.23.1280.709@0.23.1280.709" timestamp="1580634406849" />
+    <state width="1238" height="218" key="GridCell.Tab.1.right" timestamp="1580634406850">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.right/0.23.1280.709@0.23.1280.709" timestamp="1580634406850" />
+    <state x="317" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1580619981349">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="317" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1580619981349" />
+  </component>
+</project>
