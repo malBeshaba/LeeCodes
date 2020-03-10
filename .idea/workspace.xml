@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4906484-9232-4649-8257-8f4d33db04a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/Change/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/DeleteIt/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/DeleteNLIst/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/DistributeCandies/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/FindContinuousSequence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/FindMedianSortedArrays/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/LongestCommonprefix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/LongestPalindromic/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/MaxQueue/MaxQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/PhoneNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/RottenOranges/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/SortArray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/StringTOInteger/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/SumOfThree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/ZWord/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/maxProfit/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/removeElement/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lee/zhengze/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCodes/META-INF/LeeCodes.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lee/IntegersToRomanNumerals/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lee/IntegersToRomanNumerals/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lee/diameterOfBinaryTree/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +154,7 @@
       <workItem from="1583667037535" duration="1595000" />
       <workItem from="1583675607422" duration="256000" />
       <workItem from="1583756802178" duration="3365000" />
+      <workItem from="1583850374640" duration="263000" />
     </task>
     <servers />
   </component>
