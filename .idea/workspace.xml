@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4906484-9232-4649-8257-8f4d33db04a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/lee/diameterOfBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lee/canThreePartsEqualSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lee/gcdOfStrings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lee/majorityElement/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +157,11 @@
       <workItem from="1583667037535" duration="1595000" />
       <workItem from="1583675607422" duration="256000" />
       <workItem from="1583756802178" duration="3365000" />
-      <workItem from="1583850374640" duration="263000" />
+      <workItem from="1583850374640" duration="909000" />
+      <workItem from="1583898542894" duration="1445000" />
+      <workItem from="1583922153678" duration="2622000" />
+      <workItem from="1584023923644" duration="1348000" />
+      <workItem from="1584083229286" duration="807000" />
     </task>
     <servers />
   </component>
@@ -202,5 +209,9 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="317" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1580806648619" />
+    <state x="17" y="81" key="new project wizard" timestamp="1583899387954">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="17" y="81" key="new project wizard/0.23.1280.709@0.23.1280.709" timestamp="1583899387953" />
   </component>
 </project>
